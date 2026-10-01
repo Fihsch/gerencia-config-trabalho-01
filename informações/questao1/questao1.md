@@ -1,4 +1,4 @@
-1 - Trabalho intelectual pode ser contado como se conta produção de um bem de consumo?
+## Trabalho intelectual pode ser contado como se conta produção de um bem de consumo?
 
 A resposta curta é: não, pelo menos não da mesma forma. Contar produção de um bem de consumo funciona porque, numa fábrica, as unidades são equivalentes entre si, o processo é repetitivo, o produto final é conhecido de antemão e existe uma relação razoavelmente direta entre esforço e quantidade produzida. Se uma linha de montagem produz 1.000 peças por dia e outra produz 800, a comparação faz sentido: as peças são iguais e a diferença de volume diz algo real sobre eficiência. Desenvolvimento de software não tem essas características, e o artigo-âncora, “The SPACE of Developer Productivity” (Forsgren, Storey, Maddila, Zimmermann, Houck e Butler, ACM Queue, 2021), é em grande parte uma argumentação contra essa ideia. Segundo os autores, após décadas de pesquisa, medir ou mesmo definir a produtividade de desenvolvedores continua difícil, e os mitos sobre o assunto são comuns. O mais recorrente é tentar capturar tudo em “uma única métrica que importa”.
 
